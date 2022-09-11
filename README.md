@@ -17,9 +17,6 @@ GIVEN a functional Express.js API:
 
 ● WHEN I test API POST, PUT, and DELETE routes in Insomnia THEN I am able to successfully create, update, and delete data in my database.
 
-# Deployed Link:
-
-
 # Walk-through Video:
 
 https://drive.google.com/file/d/1YXr0U5zkmc6MGsmracvUIL0hku4ybL6K/view
